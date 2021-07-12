@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TriangularPrism.
+- 👋 Hi, I’m @TriangularPrism. You will probably not know my name.
 - 👀 I’m interested in making certain games.
-- 🌱 I’m currently learning Python, Lua, 3D modeling.
-- 💞️ I’m looking to collaborate on nothing as of 17/12/2021 12:11 PST.
+- 🌱 I’m currently learning Lua, Python.
+- 💞️ Collaborations - N/A
 - 📫 How to reach me: Do not try to contact me, I will not respond.
 - ❌ You will probably not know my name.
 <!---
